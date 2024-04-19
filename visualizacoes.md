@@ -10,7 +10,7 @@
 
 ## Double Folium
 
-![Double Folium](./Diedro_gif/doubleFoliumDiedro.gif)
+![Double Folium](./Diedro_gif/DoubleFoliumDiedro.gif)
 
 ## Astroide
 
