@@ -1,7 +1,7 @@
 # Estudo sobre as Equações de Frenet e a Função Curvatura em Python
 
 ## Introdução
-Este projeto foi desenvolvido como parte da disciplina de Curvas e Superfícies na Fundação Getulio Vargas - Escola de Matemática Aplicada (FGV-EMAp). O foco principal é explorar e implementar as Equações de Frenet e a Função Curvatura utilizando Python, com o objetivo de gerar visualizações gráficas de curvas 2D a partir de suas propriedades curvaturais.
+Este projeto foi desenvolvido como parte da disciplina de Curvas e Superfícies na Fundação Getulio Vargas - Escola de Matemática Aplicada (FGV-EMAp). O foco principal é explorar e implementar as Equações de Frenet e a Função Curvatura utilizando Python, com o objetivo de gerar visualizações gráficas de curvas 2D a partir de suas propriedades curvaturais. As visualizações podem ser vistas em [visualizações.md](./visualizacoes.md).
 
 ## Objetivos
 - Compreender e aplicar as Equações de Frenet para descrever curvas no espaço euclidiano.
